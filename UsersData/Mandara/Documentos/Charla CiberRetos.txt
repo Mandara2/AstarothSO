@@ -1,0 +1,465 @@
+Del dato a la estrategia
+
+	Ciberseguridad: Estamos rodeados de datos, la interconectividad es el común denominador, sitios web tienen demasiada información y ese es el riesgo,
+	un ciber atacante puede obtener toda la información de nuestras vidas
+
+	
+Inteligencia estratégica y tecnológica 
+	
+	Capacidad de analizar datos, generar un conocimiento para ejecutar estrategias, análisis de riesgos
+
+	La tecnología no se adapta a los cambios sociales, es quien la modela. Todos los avances tecnológicos han moldeado el curso de la sociedad, genera 	economías. La analítica de datos entiende el presente y toma decisiones para el futuro.
+
+	Concibe tres conceptos
+
+		- Inteligencia competitiva y de mercado (análisis de las empresas lideres de mercado, cual es la tendencia de consumo)
+				
+			Analisamos el mercado entendiendo el contexto mercantil para explorar posibilidades de negocio
+
+		- Cienciometría  (análisis de publicaciones científicas)
+
+			Las llaves para filtrar las publicaciones científicas nos la puede dar una IA
+
+		- Patentometría (análisis de las patentes, permite conocer la tendencia comercial)
+
+			Se hace un filtrado para entender la tendencia del mercado
+
+
+Estudio de caso: servicios de ciberseguridad
+
+	Hay mucha publicaciones de ciberseguridad, hay mucho conocimiento y es importante saber que se está publicando (Preservación de la privacidad), hay 	un mayor interés por la preservación de la privacidad en 2020.
+
+	Ciberseguridad: Detección de DDoS, Estrategias de defensas, detección de instrusiones, evaluación de algoritmos, seguridad industrial, aprendizaje 	federado, IA Generativa.
+
+Principales centros de producción científica
+
+	Deakin University, Jain University, Indiana University, Sichuan University
+
+Heatmap conceptual de Deakin University
+
+	Sistemas SCADA, seguridad de drones, internet de la cosas medicas
+
+Heatmap conceptual de Chinese Academy
+
+	Extracción CTI, etc.
+
+En general
+
+	Inteligencia artificial, machine learning…
+
+
+
+
+Principales registros de patentes
+
+	IBM, Microsoft, Intel, CapitalOne, Alibaba, Cisco
+
+
+HeatMap de IMB y BankOfAmerica
+
+	Ia para gestión de identidades, detecion de amenzas, amenazas de código, detección contra captura no autorizada
+
+
+
+Analitica de conocimientos
+
+	Hay una correlación de que la publicación científica y patentes, lo que se investiga se vuelve negocio. PODEMOS SABER CUALES SON LOS HUECOS PARA 	INNOVAR, DEBEMOS ENCONTRAR LA FORMA DE INNOVAR EN EL CAMPO DE CB EN COLOMBIA.
+
+
+Analitica de mercado en LATAM
+
+	Hay mas empresas en san gil santender jajaja, PODEMOS HACER UN ANALISIS Y HACER COMPETENCIA
+
+
+Entorno estrategio y de porter de la ciberseguridad
+
+	Anlizaremos CrowdStrike para conocer los huecos que están dejando
+
+		Ingresos: Es un producto Premium, subscripcion, Uso medido, pruebas gratis
+
+		Redes: Fusiones con empresas del mismo medio, alianzas con otras empresas
+
+
+Oportunidades de innovación
+
+	Analizando todas estas analíticas nos damos cuenta que una gran oportunidad en modelos avanzados de machine learning
+
+
+
+Sectores estrategicos
+	
+	Financiero y Bnaca
+
+	Comercio electrónico
+
+	Telecomunicaciones
+
+	Gobierno y defensas
+
+	Infraestructura critica y energía
+
+	Seguridad de registros de saludo y biología
+
+RECOMENDACIONES PARA LA INNOVACION
+
+	ciberseguridad movil
+
+	AI y machine learning apliacados
+	 
+	Ciberseguridad de la nube
+
+	Alianzas y estrategias
+
+	Desarrollo de soluciones de IA
+
+
+
+"Es difícil predecir el futuro, es mejor crearlo"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEGUNDA CHARLA - ZERO TRUST El nuevo paradigma de la seguridad empresarial
+
+
+Panorama de amenazas
+
+Datos: Son el corazón de toda organización
+
+Monetizacion: Los pagos de rescate en 2021 se doblaron con respecto a 2022
+
+Incremento de ataques: 317 Millones en 2023
+
+Tipos de Ataques
+
+	- Ataques oportunistas
+		
+		Un empleado recibe spam y hace click
+
+	- Ataques dirigido
+
+
+Un atacante busca el camino mas fácil para lograr su objetivo
+
+
+
+Caso real Banco CapitalOne
+
+
+	Filtración de datos por un firewall mal configurado, una carga de trabajo con permisos exesivos
+
+	Obtuvo las credenciales
+
+	Busco y listo pata reemplazar políticas IAM con acceso a los recursos objetivos
+
+	Extraer y copiar la información desde el almacenamiento
+
+
+
+
+Los defensores tienen muchos intentos para proteger los datos
+
+	- Adversario obtiene credenciales
+
+	- 2FA/MFA Spamming
+
+	- Acceso inicial VPN / Dominiio / Cloud
+
+	- Descubrimiento (buscan su objetivo)
+
+	- Movimiento lateral (como paso de un equipo o un usuario que tenga mas privilegios)
+
+	- Escalamiento de privilegios (haciéndome pasar por alguien con mayores privilegios que yo)
+
+	- Recolección de datos
+
+	- Exfiltración de datos
+
+	- Impacto
+
+RANSOMWARE: Secuestro de datos
+
+
+¿Qué es Zero trust?
+
+Es un paradigma de CB centrado de los recursos y en la premisa de la confianza nunca se otorga implícitamente, sino que debe evaluarse continuamente.
+
+
+No es una tecnología, no es de un fabricante
+
+
+Tiene tres principios fundamentales
+
+	- Otorgar acceso solo después de que la identidad este autenticada y autorizada
+
+	- Limitar el acceso únicamente a los recursos y aplicaciones necesarias
+
+	- Ajustar continuamente el acceso a la red, en tiempo real, según el contexto del dispositivo y/o usuario
+
+
+En resumen  conocer y controlar a todos y todo dentro y fuera de la red. Garantizar una política de seguridad consiste en toda la red, la nube y fuera de la red.
+
+
+Habilitadores de Zero Trust
+
+	Trabajo de cualquier lugar: El acceso de los usuarios no ve afrectado por la ubicación -> Experiencia de usuario mejorada
+
+	Ataques y situaciones de riesgo: Acceso granular a aplicaciones -> Superficie de ataque reducida
+
+
+	Adopción de la nube: Aplicaciones que no se ven afectadas por la ubicación ->
+
+
+Apoyo al trabajo desde cualquier lugar
+
+	
+	- Seguridad basada en el usuario
+
+	- Experiencia consistente en todas las ubicaciones
+
+	- Túneles automáticos y seguros
+
+	- Verificación continua con soporte de inicio de sesión único (SSO)
+
+
+Pasar del modelo ZT a ZTNA
+
+	
+	Garantizar que el usuario pueda acceder a lo que necesita desde donde sea
+
+
+¿Cómo empezar?
+
+Todod lo que el usuario toque
+
+	- Attack Surface
+
+	- Infrastructure
+
+	- Aplications
+
+	- End points
+	
+	- Identify
+
+	- Networks
+
+
+
+
+PERITO FORENSE DIGITAL
+
+
+¿Qué es el malware en mobiles?
+
+
+	Software malicioso: Software que pondría en riego a un usuario y sus datos
+
+	Tipos de Mlaware: 
+
+		Spyware, Adware, Ransomware, Trojans Banking trojans, Botnets, Rootkits, Scareware, Malicious 			apps, Grayware
+
+		Banking trojans: Copia maliciosa de paginas webs de bancos para robar cuentas bancarias
+
+		Spyware: espía y saca información confidencial, mensajes, contactos 
+
+		Adware: Anunsios en pantalla según hábitos de navegación
+
+		Ransomware: Datos encriptados
+
+		Trojans: aplicaciones disfrazadas con código que roba datos
+
+		Botnets: Utilizan tu maquina
+
+		Rootkits: dan acceso a privilegios
+
+		Scareware: Miedo, hacen instalar antivirus falsos
+
+		Grayware: Saca anuncios fuertes y constantes para robar datos
+		
+	
+	Hay tiendas alternas a las oficiales es donde mas propagan malware
+
+	Entregado por varios vectores
+
+		App Stores maliciosas, 
+		Aplicaciones maliciosas, 
+		Descargas de fuentes no confiables, 
+		Redes Wi-fi publicas no seguras, 
+		Websites comprometidos, 
+		Enlace de phishing, 
+		Vulnerabilidades en el sistema operativo, 
+		enlaces maliciosos en redes sociales
+
+	Con el fin de 
+
+		Comprometer la integridad
+		Ganar control
+		Permitir operaciones remotamente
+
+
+
+	¿Qué sistema operativo está más afectado? - Android
+
+		Cuota de mercado
+
+		Ecosistema abierto
+
+		Distribución de aplicaciones
+
+		Fragmentación
+
+		Comportamiento del usuario
+
+	
+		Mas victimas potenciales
+
+		La personalización aumenta el riesgo
+
+		Por Play Store se pueden filtrar aplicaciones con malware
+
+		A menodo los usuarios de Android permiten la instalación de aplicaciones de terceros		
+
+	
+	Muestras de Malware
+
+		Mishing y su impacto
+
+
+			Es phishing pero para mobiles, representa un riesgo para las empresas y los usuarios
+
+			El 82% de los sitios de phising ahora se dirigen a dispositivos móviles
+
+			El 76% de las paginas de phising utilizan HTTPS, engañando a las victimas
+
+
+	Conclusiones claves
+
+		El numero de dispositivos conectados a redes inseguras aumentó un 45%
+
+
+	Listas de malwares app conocidas
+
+		HiddenAds
+
+		FakeApp
+
+
+	Malware para IOS
+
+		Pegasus
+
+		Método de clic cero
+
+		Creado por la israli de ciberinteligencia
+
+
+	Apple contruyo el método de responder al malware tipo pegasus
+
+		Modo hermetico: Esta diseñado para situaciones de alto riesgo, afecta la funcionalidad normal del 		dispositivo.
+
+		
+
+	Yara
+		
+		Es un lugar donde a partir de un indicador de compromiso a un malware y le agregan un 				identificador para defenderse contra ataques de malware
+
+
+	¿Qué es importante encontrar?
+
+		¿lo provoco un usuario?
+
+		¿fueron los datos incriminatorios generados por Malware o Spyware?
+
+		¿o tal vez fue colocado por un tercero?
+
+
+	¿Por que es importante?
+
+		Respuesta de incidentes
+
+		Atribución
+
+		Evaluación del impacto en las victimas
+
+		Tacticas, técnicas y procedimeintos
+
+		Procedimientos judiciales
+
+		Ingeniería inversa
+
+	
+	¿Cómo encontrarlo?
+
+		MOBILedit ForesicPRO
+		
+
+	¿Qué hacer una vez que se encuentra?
+
+		Consulte 
+
+		Investigue
+
+		Aislar el dispositivo
+
+		Comunique losresultados al quipo de investigación para que tome las decisiones oportunas
+
+		Mitigue e investigue mas a fondo para proteger a la organización o a las personas
+
+
+	¿Qué hacer una vez se detecte?
+
+		Aislar el dispositivo
+
+		Documentación
+
+		Copia de seguridad y conversación
+
+		Análisis de malware
+
+	No olvidar que la detección de malware es muy útil para las empresas y para los usuarios	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LA CARA OCULTA DE LA IA
+
+	Las IAS cada vez mas van a potenciar los ataques maliciosos, generar fakenews para afectar el pensamiento social, 
+	la IA potencia el phishing y puede simular una institución veridica
+
+
+
+
+
+
+
+
+
+

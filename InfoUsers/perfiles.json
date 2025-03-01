@@ -1,0 +1,17 @@
+{
+    "Rafa": {
+        "icon": "imagenes/iconos/usuarios/rafa.jpg",
+        "password": "1711",
+        "is_admin": 0
+    },
+    "Mandara": {
+        "icon": "imagenes/iconos/usuarios/mandara.jpg",
+        "password": "1711",
+        "is_admin": 0
+    },
+    "Luka-chan": {
+      "icon": "D:/BackUp/Imagenes/01bebaaed7909c20d98cce1f3bbe5b3b.jpg",
+      "password": "1711",
+      "is_admin": 1
+    }
+}
